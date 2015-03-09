@@ -15,7 +15,7 @@
 * [FastML](http://fastml.com/)
 * [Python for Machine Learning](http://pythonformachinelearning.wordpress.com/)
 
-#### Data Science as a Profession
+#### Data I DELETED JUST A SECTION TO SEE WHAT WOULD HAPPEN Science as a Profession
 
 * [Data Science Weekly](http://www.datascienceweekly.org/blog)
 
